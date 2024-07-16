@@ -10,7 +10,8 @@ public class Sort_colors {
     }
 
     public static void bruteORbetter(int[] nums) {
-
+        // use bucketsort to find number of 0's 1's and 2's and the override the nums
+        // array.
     }
 
     public static void sortColors(int[] nums) {
